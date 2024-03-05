@@ -10,21 +10,6 @@
       line-height: 1.6;
       margin: 2em;
     }
-
-    h1, h2 {
-      color: #333;
-    }
-
-    p {
-      color: #666;
-    }
-
-    code {
-      background-color: #f4f4f4;
-      padding: 2px 4px;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-    }
   </style>
 </head>
 <body>
